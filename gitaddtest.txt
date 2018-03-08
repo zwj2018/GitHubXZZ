@@ -1,0 +1,3 @@
+Frist line of editing without gitadd.
+Second line of editing with gitadd.
+Third line of editing with gitadd.
